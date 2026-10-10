@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**annusharma637544-sketch/annusharma637544-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Annu Sharma 👋
 
-Here are some ideas to get you started:
+🎓 Information Technology Student  
+💻 Learning C++, DSA and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annusharma637544-sketch&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=annusharma637544-sketch&theme=radical)](https://git.io/streak-stats)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annusharma637544-sketch&layout=compact&theme=radical)
+
+## 💡 Dev Quote
+
+> Keep learning, keep building, keep growing! 🚀
